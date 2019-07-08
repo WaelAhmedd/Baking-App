@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e9131b</color>
+    <color name="colorPrimaryDark">#cc0003</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Recipe1t">#9d6cc7</color>
+    <color name="Recipet2">#c596ed</color>
+    <color name="Recipet3">#d9b4f9</color>
+    <color name="Recipet4">#efdeff</color>
+</resources>
